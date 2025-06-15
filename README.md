@@ -1,7 +1,7 @@
 # four-card-feature-section
-#  QR Code Component - Frontend Mentor Challenge
 
-Ce projet est une solution au défi [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) sur **Frontend Mentor**. Ce défi m'a permis de pratiquer mes compétences en **HTML** et **CSS**, tout en appliquant des techniques de **responsive design**.
+
+Ce projet est une solution au défi [QR code component](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) sur **Frontend Mentor**. Ce défi m'a permis de pratiquer mes compétences en **HTML** et **CSS**, tout en appliquant des techniques de **responsive design**.
 
 ---
 
