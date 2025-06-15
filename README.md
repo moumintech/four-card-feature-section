@@ -1,7 +1,7 @@
 # four-card-feature-section
 
 
-Ce projet est une solution au défi [QR code component](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) sur **Frontend Mentor**. Ce défi m'a permis de pratiquer mes compétences en **HTML** et **CSS**, tout en appliquant des techniques de **responsive design**.
+Ce projet est une solution au défi [four card feature](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) sur **Frontend Mentor**. Ce défi m'a permis de pratiquer mes compétences en **HTML** et **CSS**, tout en appliquant des techniques de **responsive design**.
 
 ---
 
